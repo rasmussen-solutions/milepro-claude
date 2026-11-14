@@ -1,0 +1,20 @@
+{
+  "name": "milepro",
+  "displayName": "MilePro",
+  "version": "1.0.0",
+  "description": "Ask about your fleet in MilePro from a conversation: the monthly mileage log (kørebog) with business and private km, and the week's alarms with what needs action. / Spørg om din flåde i MilePro direkte fra en samtale: månedens kørebog og ugens alarmer.",
+  "author": {
+    "name": "Rasmussen Solutions ApS",
+    "email": "kontakt@milepro.dk",
+    "url": "https://milepro.dk"
+  },
+  "homepage": "https://milepro.dk",
+  "repository": "https://github.com/rasmussen-solutions/milepro-claude",
+  "license": "MIT",
+  "keywords": ["milepro", "fleet", "gps", "mileage-log", "kørebog", "vehicles", "alarms", "trips", "flåde"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://app.milepro.dk/marketplace/claude",
+  "supportUrl": "https://milepro.dk/kontakt/",
+  "privacyPolicyUrl": "https://milepro.dk/pages/privacy.html",
+  "termsOfServiceUrl": "https://milepro.dk/pages/terms.html"
+}

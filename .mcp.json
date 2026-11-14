@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "milepro": {
+      "type": "http",
+      "url": "https://api.milepro.dk/mcp"
+    }
+  }
+}

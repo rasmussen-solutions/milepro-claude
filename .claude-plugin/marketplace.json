@@ -1,0 +1,17 @@
+{
+  "name": "milepro",
+  "description": "The MilePro plugin for Claude, from Rasmussen Solutions ApS.",
+  "owner": {
+    "name": "Rasmussen Solutions ApS",
+    "email": "kontakt@milepro.dk",
+    "url": "https://milepro.dk"
+  },
+  "plugins": [
+    {
+      "name": "milepro",
+      "source": ".",
+      "description": "Ask about vehicles, trips, the mileage log (kørebog) and alarms in MilePro from a conversation.",
+      "category": "productivity"
+    }
+  ]
+}
